@@ -1,0 +1,4 @@
+requests
+bs4
+pyzabbix
+progressbar
